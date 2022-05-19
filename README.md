@@ -1,4 +1,4 @@
-# Project 1Launching XBoxOffice 
+# Project 1 - Launching XBoxOffice 
 
 ## Overview
 1. This is GitHub repository represents the final project submission for Greg Osborne's first project at FlatIron school. The project assignment was to analyze a selected set of data for box office data and to create a presentation to present to a Microsoft executive that summarizes the results.
