@@ -1,7 +1,29 @@
-# Launching XBoxOffice 
+# Project 1Launching XBoxOffice 
 
-1. `Overview
-    * This is my bladi blah blah
+## Overview
+1. This is GitHub repository represents the final project submission for Greg Osborne's first project at FlatIron school. The project assignment was to analyze a selected set of data for box office data and to create a presentation to present to a Microsoft executive that summarizes the results.
+## Business Understanding
+1. Microsoft’s strong representation in the fields of personal computing, business computing, and interactive entertainment needs to expand into other forms of popular media to stay competitive and attract new customers. Microsoft wishes to investigate the best way to expand into the blockbuster movie industry. Microsoft faces competition from the five titans of the film industry
+2. Based on these instructions, I developed the following business questions:
+      * 1. What genres of film produce the highest box office revenue?
+      * 2. What is the best month to release a film to generate the most revenue?
+      * 3. What writers, directors, producers, actors and actresses have the highest revenue earning potential?
+## Data Understanding and Analysis
+1. Source of data
+      * All data used in this project was provided for me by FlatIron Schoo. It includes data from IMDB, Rotten Tomatoes, Box Office Mojo, The Numbers, and The Movie Database. However, I did not use data from each of these organizations. I primarily relied on IMDB and The Numbers for my data.
+2. Description of data
+    * From IMDB I gleaned personnel that created the films analyzed, genre, and other basic film information. From The Numbers I gleaned the release date and box office performance. Those were the primary data points and metrics I used in my analysis. 
+3. Three visualizations (the same visualizations presented in the slides and notebook)
+    
+## Conclusion
+          * Summary of conclusions including three relevant findings
+    
+    
+    
+    
+    
+    
+    
     * This file contains these sections:
        * Overview
        * Business Understanding
@@ -37,7 +59,6 @@ See the [Grading](#grading) section for further explanation of how the GitHub re
 
 For further reading on creating professional notebooks and `README`s, check out [this reading](https://github.com/learn-co-curriculum/dsc-repo-readability-v2-2).
 
-## Grading
 
 ***To pass this project, you must pass each project rubric objective.*** The project rubric objectives for Phase 1 are:
 
