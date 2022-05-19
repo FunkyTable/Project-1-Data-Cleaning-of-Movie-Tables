@@ -5,9 +5,9 @@
 ## Business Understanding
 1. Microsoft’s strong representation in the fields of personal computing, business computing, and interactive entertainment needs to expand into other forms of popular media to stay competitive and attract new customers. Microsoft wishes to investigate the best way to expand into the blockbuster movie industry. Microsoft faces competition from the five titans of the film industry
 2. Based on these instructions, I developed the following business questions:
-      * 1. What genres of film produce the highest box office revenue?
-      * 2. What is the best month to release a film to generate the most revenue?
-      * 3. What writers, directors, producers, actors and actresses have the highest revenue earning potential?
+      * What genres of film produce the highest box office revenue?
+      * What is the best month to release a film to generate the most revenue?
+      * What writers, directors, producers, actors and actresses have the highest revenue earning potential?
 ## Data Understanding and Analysis
 1. Source of data
       * All data used in this project was provided for me by FlatIron Schoo. It includes data from IMDB, Rotten Tomatoes, Box Office Mojo, The Numbers, and The Movie Database. However, I did not use data from each of these organizations. I primarily relied on IMDB and The Numbers for my data.
