@@ -13,7 +13,7 @@
       * All data used in this project was provided for me by FlatIron Schoo. It includes data from IMDB, Rotten Tomatoes, Box Office Mojo, The Numbers, and The Movie Database. However, I did not use data from each of these organizations. I primarily relied on IMDB and The Numbers for my data.
 2. Description of data
     * From IMDB I gleaned personnel that created the films analyzed, genre, and other basic film information. From The Numbers I gleaned the release date and box office performance. Those were the primary data points and metrics I used in my analysis. 
-3. Three visualizations (the same visualizations presented in the slides and notebook)
+3. Five visualizations (the same visualizations presented in the slides and notebook)
     * [Visualization 1](https://github.com/FunkyTable/dsc-phase-1-project-v2-4/blob/master/Visualizations/Q1%20Genres%20in%20half-billion%20films.png?raw=true)
     * [Visualization 2](https://github.com/FunkyTable/dsc-phase-1-project-v2-4/blob/master/Visualizations/Q2%20Release%20Month%20Average%20-%20All%20Films.png?raw=true)
     * [Visualization 3](https://github.com/FunkyTable/dsc-phase-1-project-v2-4/blob/master/Visualizations/Q2%20Release%20month%20of%20half%20billion%20films.png?raw=true)
