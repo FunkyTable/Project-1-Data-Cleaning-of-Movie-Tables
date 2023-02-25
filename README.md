@@ -1,7 +1,7 @@
 # Project 1 - Launching XBoxOffice 
 
 ## Overview
-1. This is GitHub repository represents the final project submission for Greg Osborne's first project at FlatIron school. The project assignment was to analyze a selected set of data for box office data and to create a presentation to present to a Microsoft executive that summarizes the results.
+1. This GitHub repository represents the final project submission for Greg Osborne's first project at FlatIron school. The project assignment was to analyze a selected set of data for box office data and to create a presentation to present to a Microsoft executive that summarizes the results.
 ## Business Understanding
 1. Microsoft’s strong representation in the fields of personal computing, business computing, and interactive entertainment needs to expand into other forms of popular media to stay competitive and attract new customers. Microsoft wishes to investigate the best way to expand into the blockbuster movie industry. Microsoft faces competition from the five titans of the film industry
 2. Based on these instructions, I developed the following business questions:
