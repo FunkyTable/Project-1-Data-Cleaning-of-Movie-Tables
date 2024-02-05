@@ -1,9 +1,9 @@
-# Project 1 - Launching XBoxOffice 
+# Project 1 - Launching TechBoxOffice 
 
 ## Overview
-1. This GitHub repository represents the final project submission for Greg Osborne's first project at FlatIron school. The project assignment was to analyze a selected set of data for box office data and to create a presentation to present to a Microsoft executive that summarizes the results.
+1. This GitHub repository represents the final project submission for Greg Osborne's first project at FlatIron school. The project assignment was to analyze a selected set of data for box office data and to create a presentation to present to a TechConnect executive that summarizes the results.
 ## Business Understanding
-1. Microsoft’s strong representation in the fields of personal computing, business computing, and interactive entertainment needs to expand into other forms of popular media to stay competitive and attract new customers. Microsoft wishes to investigate the best way to expand into the blockbuster movie industry. Microsoft faces competition from the five titans of the film industry
+1. TechConnect’s strong representation in the fields of personal computing, business computing, and interactive entertainment needs to expand into other forms of popular media to stay competitive and attract new customers. TechConnect wishes to investigate the best way to expand into the blockbuster movie industry. TechConnect faces competition from the five titans of the film industry
 2. Based on these instructions, I developed the following business questions:
       * What genres of film produce the highest box office revenue?
       * What is the best month to release a film to generate the most revenue?
@@ -25,12 +25,12 @@
 1. This analysis is limited by time and budget. There are many other factors to consider when trying to launch a film business. Some areas to consider looking into before producing a film are:
     * How much do existing franchises influence the public’s film choices?
     * If existing film franchises have a lot of draw, does the public have the appetite for more after they’ve already spent a lot of time and money on the existing franchises?
-    * Should Microsoft find a existing property and option it for film or start new?
+    * Should TechConnect find a existing property and option it for film or start new?
     * Is streaming a better option for building the brand and generating revenue?
-    * Should Microsoft purchase one of the big studios instead of entering the competition?
+    * Should TechConnect purchase one of the big studios instead of entering the competition?
     * Rather than make a specific recommendation for which film to greenlight, I want to strongly recommend more research. 
     * Three conclusions I do have:
         1. The public likes action and adventure films. 
         2. The best release windows are May-July and November-December.
         3. Writers and actors are the best creative personnel to increase a films revenue potential.
-    * I think more time spent in answering the questions in the slide above would go a long way in helping Microsoft be successful with their film aspirations.
+    * I think more time spent in answering the questions in the slide above would go a long way in helping TechConnect be successful with their film aspirations.
